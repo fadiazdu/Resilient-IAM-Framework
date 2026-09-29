@@ -1,0 +1,8 @@
+# Tested with Python 3.12 and 3.13. Each run records the versions actually used in outputs/environment.json.
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+pulp>=2.8        # includes the CBC solver
+contextily>=1.5  # optional: satellite basemap in the map figures (plain background without it)
+pyproj>=3.6

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "A Multi-Objective Optimization Framework for Resilient Infrastructure Asset Management: code, data, and supplemental materials"
+authors:
+  - family-names: "Díaz-Durán"
+    given-names: "Fredy"
+    orcid: "https://orcid.org/0000-0001-5344-5466"
+    email: "diazdura@ualberta.ca"
+    affiliation: "Department of Civil and Environmental Engineering, University of Alberta; Department of Civil and Environmental Engineering, University of Waterloo"
+version: "1.0.0"
+doi: "10.5281/zenodo.22973335"
+license: "MIT"
+repository-code: "https://doi.org/10.5281/zenodo.22973335"
+keywords:
+  - infrastructure asset management
+  - multi-objective optimization
+  - objective screening
+  - life-cycle cost
+  - greenhouse-gas emissions
+  - bridge scour
