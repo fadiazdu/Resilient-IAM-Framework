@@ -1,0 +1,44 @@
+[
+  {
+    "year": 2019,
+    "url": "https://www.fhwa.dot.gov/bridge/nbi/2019/delimited/RI19.txt",
+    "bytes": 337655,
+    "sha256": "8bbbd96a1ab04d244f92e3985194b6b700490dfe4bc2ba0eddf6c996c97abef2",
+    "path": "iam_audited/data/raw/RI2019.csv"
+  },
+  {
+    "year": 2020,
+    "url": "https://www.fhwa.dot.gov/bridge/nbi/2020/delimited/RI20.txt",
+    "bytes": 336585,
+    "sha256": "d848a67f53f63c6cea8a3efa8612e4f18e2afa2d2b855fee29d96cd99d9f3168",
+    "path": "iam_audited/data/raw/RI2020.csv"
+  },
+  {
+    "year": 2021,
+    "url": "https://www.fhwa.dot.gov/bridge/nbi/2021/delimited/RI21.txt",
+    "bytes": 337363,
+    "sha256": "c7163e8dac9629685390234fa02c431923828851dd6a7027f886774a42bc2982",
+    "path": "iam_audited/data/raw/RI2021.csv"
+  },
+  {
+    "year": 2022,
+    "url": "https://www.fhwa.dot.gov/bridge/nbi/2022/delimited/RI22.txt",
+    "bytes": 339511,
+    "sha256": "890eb7500e950828b5b498fdc60c1c9b0ccf72796efa164a5ac2f67dad329aa0",
+    "path": "iam_audited/data/raw/RI2022.csv"
+  },
+  {
+    "year": 2023,
+    "url": "https://www.fhwa.dot.gov/bridge/nbi/2023/delimited/RI23.txt",
+    "bytes": 338402,
+    "sha256": "66bfb6362308fdd6a11f4db395636af938da84fa1bc0a4f27b2ab588db9dd2b2",
+    "path": "iam_audited/data/raw/RI2023.csv"
+  },
+  {
+    "year": 2024,
+    "url": "https://www.fhwa.dot.gov/bridge/nbi/2024/delimited/RI24.txt",
+    "bytes": 343501,
+    "sha256": "0ea6f41c0fdfbc0029ea4d8b7151341ebfa981cb89c0adea032aa97cefa588e8",
+    "path": "iam_audited/data/raw/RI2024.csv"
+  }
+]
